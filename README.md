@@ -1,4 +1,4 @@
-# Autonomous-drone with a robotic ARM--Raspberry pi 
+# Autonomous-drone with a robotic ARM--Raspberry pi
 
 Open source Contribution- This repository consists of the code that we developed for the making an autonomous drone with a robotic arm and controlling the same using a raspberry pi 3.
 
